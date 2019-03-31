@@ -1,0 +1,9 @@
+流程图借鉴：http://confluence.tech.apitops.com/pages/viewpage.action?pageId=13173109
+
+资产核心接口： http://confluence.tech.apitops.com/pages/viewpage.action?pageId=14844220
+
+连接数据库：
+test.mysql.apitops.com
+4310
+finance_test
+23txjXmoX9dNQrCGBWranDcHxd8pJP
